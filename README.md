@@ -26,4 +26,4 @@ ___
 ## ANALYSIS & VISUALIZATION
 ___
 * Which Region generated the most revenue?
-![](images/bar chart.png)
+![](images/bar_chart.png)
